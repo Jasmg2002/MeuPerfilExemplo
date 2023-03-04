@@ -1,3 +1,3 @@
-<p>Página HTML estilizado com CSS Tive o auxilio do ChatGPT</p>
+<h1>Página HTML estilizado com CSS Tive o auxilio do ChatGPT</h1>
 
 
