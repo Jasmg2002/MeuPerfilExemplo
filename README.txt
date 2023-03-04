@@ -1,3 +1,3 @@
 Página HTML estilizado com CSS
-tive uma ajuda do CHATGPT
+Tive o auxilio do ChatGPT
 
